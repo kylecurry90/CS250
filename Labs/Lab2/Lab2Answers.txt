@@ -1,0 +1,10 @@
+Kyle Curry
+Lab 2 Questions and Answers
+
+1. The four levels of exception safety are No-throw guarantee, Strong exception safety, Basic exceptions safety, and no exception safety.
+
+2. There can be any number of catch blocks as long as there is at least one. 
+
+3. The children of logic_errors are invalid_argument, out_of_range, and length_error.
+
+4. The children of runtime_errors are overflow_error, underflow_error, and range_error.

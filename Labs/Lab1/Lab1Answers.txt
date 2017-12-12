@@ -1,0 +1,26 @@
+Kyle Curry
+Lab 1 Questions
+
+1. General Vocabulary
+	(a) A paramater is a variable in the function. An argument is the value of that variable.
+	(b) An element of an array is a varaible or value of the array. The index is the elements position in the array.
+2. Vectors
+	(a) The vector erase function will erase elements. 
+	(b) The insert and push_back functions can be used to add items.
+3. Lists
+	(a) The size function returns the size of the list. 
+	(b) The reverse function can reverse the items in the list. 
+4. Queues
+	(a) You can use the push function to add an item to a queue. 
+	(b) Use the pop function to remove an item from the front.
+	(c) Use the front function. 
+	(d) The empty function tests whether the queue is empty.
+5. Stacks
+	(a) Use the push function to add an item. 
+	(b) Use the pop function to remove the top item. 
+	(c) Use the top function. 
+	(d) Queues are first in first out. Stacks are first in last out. 
+6. Maps
+	(a) Keys are used to sort and identify the elements. 
+	(b) Values store the type of content associated with the keys. 
+	(c) Binary search tree. 
